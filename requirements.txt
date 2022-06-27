@@ -5,6 +5,5 @@ lxml
 dnslib
 aiohttp
 aiodns
-psycopg2-binary
 tldextract
 icmplib
